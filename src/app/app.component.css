@@ -1,0 +1,17 @@
+
+.example-spacer {
+    flex: 1 1 auto;
+}
+.mat-sidenav-container{
+  height: 100%;
+}
+
+.mat-sidenav{
+  background-color: lightcoral;
+  width:200px;
+}
+/* .name{
+  display:flex;
+  justify-content: center;
+ 
+} */
